@@ -338,11 +338,7 @@ paths=['vpu_stats.txt', 'gpu_stats.txt', 'cpu_stats.txt']
 read_files(paths, ['VPU', 'GPU', 'CPU'])
 </code></pre>
 
-
-
-
-
-
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
 
 
 
