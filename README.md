@@ -188,7 +188,7 @@ print(vpu_job_id_core[0])
 </code></pre>
 
 # Check Job Status
-To check on the job that was submitted, use <code>liveQStat<code> to check the status of the job. The cell is locked until this finishes polling 10 times or you can interrupt the kernel to
+To check on the job that was submitted, use <code>liveQStat</code> to check the status of the job. The cell is locked until this finishes polling 10 times or you can interrupt the kernel to
 stop it by pressing the stop button at the top:
 
 Column <code>S</code> shows the state of your running jobs.
