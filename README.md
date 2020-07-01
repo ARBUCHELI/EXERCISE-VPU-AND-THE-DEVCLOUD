@@ -40,7 +40,7 @@ Remember to use the appropriate model precisions for each device:
 
   * CPU -<code>FP32</code>
   * IGPU - <code>FP16</code>
-  * VPU - <code>FP16<code>
+  * VPU - <code>FP16</code>
   
 The model has already been downloaded for you in the <code>/data/models/intel</code> directory on Intel's DevCloud.
 
