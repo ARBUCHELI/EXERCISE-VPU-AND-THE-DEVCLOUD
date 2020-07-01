@@ -338,6 +338,12 @@ paths=['vpu_stats.txt', 'gpu_stats.txt', 'cpu_stats.txt']
 read_files(paths, ['VPU', 'GPU', 'CPU'])
 </code></pre>
 
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-VPU-AND-THE-DEVCLOUD/master/downloada.png)
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-VPU-AND-THE-DEVCLOUD/master/downloadb.png)
+
+![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-VPU-AND-THE-DEVCLOUD/master/downloadc.png)
+
 # Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
 
 
