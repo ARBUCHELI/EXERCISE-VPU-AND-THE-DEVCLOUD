@@ -1,6 +1,6 @@
 # EXERCISE-VPU-AND-THE-DEVCLOUD
 
-## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bücheli.)
+## This Content was Created by Intel Edge AI for IoT Developers UDACITY Nanodegree. (Solution of the exercise and adaptation as a repository: Andrés R. Bucheli.)
 
 # Exercise: VPU and the DevCloud
 
@@ -344,7 +344,7 @@ read_files(paths, ['VPU', 'GPU', 'CPU'])
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-VPU-AND-THE-DEVCLOUD/master/downloadc.png)
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bücheli.
+# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
 
 
 
