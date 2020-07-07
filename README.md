@@ -344,7 +344,7 @@ read_files(paths, ['VPU', 'GPU', 'CPU'])
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/EXERCISE-VPU-AND-THE-DEVCLOUD/master/downloadc.png)
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
 
 
 
